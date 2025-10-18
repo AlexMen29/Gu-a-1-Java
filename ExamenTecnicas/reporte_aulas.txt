@@ -1,0 +1,5 @@
+--- REPORTE GENERADO EL 2025-10-18 ---
+--- Top 3 Aulas con Más Horas Reservadas ---
+1. Computo 2 - 2.50 horas
+1. Computo 1 - 1.00 horas
+
